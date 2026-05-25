@@ -1,0 +1,6 @@
+data/credit_card_fraud_2025.csv
+fraud_features.db
+__pycache__/
+*.pyc
+.DS_Store
+.env
